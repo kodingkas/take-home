@@ -2,6 +2,9 @@
 
 # Post Take Home Summary
 
+# Video 
+
+https://youtu.be/-xjDCv2I_p8
 
 ## What I chose to do.
 
